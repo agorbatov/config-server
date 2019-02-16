@@ -9,4 +9,4 @@ eureka:
                    http://localhost:8762/eureka/
 
 greeting:
-  message: Hello World !!!
+  message: Hello Ukraine !!!
